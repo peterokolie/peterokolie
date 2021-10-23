@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @peterokolie
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning frontend web development
+-  love building project from scratch 
+- i love to work with designers to bring prototypes into live projects.
+- 📫 How to reach me ...facebook peterokolie
+- am an upcoming dev passionate about the IT industry and tech world and writing clean code
+- 
+- 
 
 <!---
 peterokolie/peterokolie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

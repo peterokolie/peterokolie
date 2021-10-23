@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend web development
 -  love building project from scratch 
 - i love to work with designers to bring prototypes into live projects.
-- 📫 How to reach me ...facebook peterokolie
+- 📫 How to reach me ...https://www.facebook.com/peter.okolie.127/
 - am an upcoming dev passionate about the IT industry and tech world and writing clean code
 - 
 - 

@@ -4,7 +4,7 @@
 -  love building project from scratch 
 - i love to work with designers to bring prototypes into live projects.
 - 📫 How to reach me ...https://www.facebook.com/peter.okolie.127/
-- am an upcoming dev passionate about the IT industry and tech world and writing clean code
+- am  passionate about the IT industry and tech world and writing clean code
 - 
 - 
 

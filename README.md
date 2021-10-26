@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @peterokolie
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning frontend web development
--  love building project from scratch 
 - i love to work with designers to bring prototypes into live projects.
 - 📫 How to reach me ...https://www.facebook.com/peter.okolie.127/
 - am  passionate about the IT industry and tech world and writing clean code

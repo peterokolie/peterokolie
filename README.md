@@ -17,7 +17,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href=".https://www.facebook.com/peter.okolie.127"><img alt="Twitter" src="https://img.shields.io/badge/facebook-Wuzpa-blue?style=flat-square&logo=twitter"></a>
+<a href=".https://www.facebook.com/peter.okolie.127"><img alt="facebook" src="https://img.shields.io/badge/facebook-blue?style=flat-square&logo=facebook"></a>
 <a href="mailto:peterime49@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-peterime49@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <!---

@@ -17,10 +17,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://peterime.netlify.app"><img alt="Website" src="https://img.shields.io/badge/peterime.netlify.appp-blue?style=flat-square&logo=google-chrome"></a>
-
-<a href=".https://www.facebook.com/peter.okolie.127"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Wuzpa-blue?style=flat-square&logo=twitter"></a>
+<a href=".https://www.facebook.com/peter.okolie.127"><img alt="Twitter" src="https://img.shields.io/badge/facebook-Wuzpa-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:peterime49@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-peterime49@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <!---

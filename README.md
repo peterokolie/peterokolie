@@ -1,6 +1,7 @@
 ## Hi there 👋 My name is Peter - welcome to my GitHub!
 🎓 I'm an upcoming frontend developer. 
 👀 I’m interested in programming
+<br>
 🌱 I’m currently learning frontend development  
 🔭 In my spare time I'm working on open source projects   
 💬 I love working on protoype and design to bring life to them    

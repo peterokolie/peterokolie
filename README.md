@@ -5,6 +5,7 @@
 🔭 In my spare time I'm working on open source projects   
 💬 I love working on protoype and design to bring life to them    
 👨‍💻 i am  passionate about the IT industry and tech world and writing clean code
+<br>
 📫 How to reach me: peterokolie177@gmail.com   
 📫 How to reach me ...https://www.facebook.com/peter.okolie.127
 

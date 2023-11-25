@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Peter - welcome to my GitHub!
-🎓 I'm an upcoming frontend developer. 
+🎓 I'm a frontend developer. 
 <br>
 👀 I’m interested in programming
 <br>
